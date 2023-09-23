@@ -8,16 +8,16 @@
 
 ---
 
-### Para excutar o projeto:
+## Para excutar:
 Iniciar no servidor `npm start`
 
 Rodar o teste `npm teste`
 
-### **OBS**: Certifique-se de estar na pasta correta
+*OBS*: Certifique-se de estar na pasta correta
 ---
-### Introdução
+## Introdução
 O projeto desenvolvido trata-se de um gerenciador de tarefas, onde o mesmo é capaz de criar, editar, excluir e concluir uma tarefa.
 
-### Funcionalidades
+## Funcionalidades
 
 
